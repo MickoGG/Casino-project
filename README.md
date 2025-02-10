@@ -2,6 +2,8 @@
 
 ### Casino application implemented in Java using JavaFX library and MySQL.
 
+This project was built using **Java 8**, but it should work with newer versions as well.
+
 This project uses **EclipseLink (JPA 2.2)** for **object-relational mapping (ORM)**, allowing seamless interaction between **Java** objects and the **MySQL** database.
 
 ## Key features:
